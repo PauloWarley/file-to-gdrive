@@ -1,0 +1,1 @@
+java -cp "GoogleDrive.jar:libs/*" sankhya.imazit.gdrive.Main
